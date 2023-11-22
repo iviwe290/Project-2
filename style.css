@@ -1,0 +1,10 @@
+@media screen and (max-width: 325px){
+    #card{
+        height: 1200px;
+    }
+}
+@media screen and (max-width:325px){
+    #card-body{
+        position:relative;top:-60px;
+    }
+}
